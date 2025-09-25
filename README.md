@@ -41,4 +41,6 @@ Quick setup (suggested)
 Contact / help
 - Ask course questions on Ed discussion (Canvas). For direct email, use ling.zhou@duke.edu.
 
-This README is intentionally short. Tell me if you want a longer version, a student-facing one-page handout, or a LaTeX syllabus file.
+This README is intentionally short. This repository is intended for Python-related course materials only (code, notebooks, and project implementations). Other items (slides, full syllabus, handouts) are posted on Canvas.
+
+If you'd like, I can create a `notebooks/` folder and move Python notebooks here, add a `projects/` folder, and include a `requirements.txt` for reproducibility.
