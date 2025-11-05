@@ -62,30 +62,38 @@ Students will gain hands-on experience implementing TDA methods and apply them i
 | Final Report       | 39.5%  | due Dec 4          |
 | Presentation + Q&A | 40%    | Dec 4              |
 
-No exams. Collaboration encouraged (see syllabus for details).
+No exams. Collaboration on course projects is encouraged (see syllabus for details).
 
 ---
 
 ## Final Project
 
-A substantial research or application project applying TDA. Options include:
+The final project is your opportunity to **apply or explore Topological Data Analysis (TDA)** in depth.
+Possible directions include:
 
-* Analyze a real or synthetic dataset using TDA methods
-* Explore or extend theoretical aspects of persistent homology
-* Survey recent research (NeurIPS/ICML/ICLR papers)
+* **Applied:** Analyze a real or synthetic dataset using TDA methods
 
-Work individually or in groups of ≤3. Graduate students are expected to submit longer reports.
-Templates are available on [Overleaf](https://www.overleaf.com/read/bwdqbcxvdmtw).
+* **Theoretical:** Explore or extend an idea related to persistent homology
+
+* **Survey:** Summarize and discuss recent research on a chosen TDA topic
+
+Projects may be completed **individually or in groups of up to three**.
+Group projects are expected to show greater scope or depth.
+**Graduate students** should submit proportionally longer reports.
 
 ---
 
 ## Use of AI Tools
 
-You may use AI tools (e.g., ChatGPT, Copilot) for **idea generation or debugging**, but:
+AI tools (e.g., ChatGPT, Copilot) may be used for **idea generation, debugging, or background learning**, but:
 
-* All submitted work must reflect **your own understanding**
-* Copy-paste of AI output is not allowed
-* Significant AI use must be **acknowledged** in your report
+* All work must reflect **your own understanding**.
+
+* **Copying or lightly editing** AI-generated output is **NOT** allowed.
+
+* You should be able to **explain** any submitted work.
+
+* If AI tools were used, include a short **acknowledgment** in your proposal/report explaining how they were used.
 
 ---
 
@@ -95,10 +103,15 @@ See the [course schedule](https://docs.google.com/spreadsheets/d/1j71stz1KoNI_l0
 Main topics include:
 
 * Simplicial and cubical complexes
+
 * Homology and persistent homology
+
 * Bottleneck and interleaving distances
+
 * Stability theorems
+
 * Mapper, Reeb graphs, and TDA for ML
+
 * Discrete Morse Theory
 
 ---
