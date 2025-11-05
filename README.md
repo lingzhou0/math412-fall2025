@@ -35,7 +35,6 @@ Students will gain hands-on experience implementing TDA methods and apply them i
 * [DSC214-SPR24 GitHub Course](https://github.com/ZhengchaoW/DSC214-SPR24?tab=readme-ov-file) 
 * *Computational Topology: An Introduction* — Edelsbrunner & Harer 
 * *A roadmap for the computation of persistent homology* (Otter et al., 2017)
-* *Topological Data Analysis* (Larry Wasserman, 2018) 
 * [TDA Lecture Notes by Žiga Virk](https://zigavirk.gitlab.io/PhBook.pdf)
 
 ---
