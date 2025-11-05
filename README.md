@@ -1,9 +1,13 @@
 # MATH 412 / COMPSCI 434 / MATH 713 — Topological Data Analysis (Fall 2025)
 
 **Instructor:** Ling Zhou
+
 **Email:** [ling.zhou@duke.edu](mailto:ling.zhou@duke.edu)
+
 **Office:** Physics 208
+
 **Class Times:** Tue/Thu 3:05–4:20 PM, Gross Hall 318
+
 **Office Hours:** Tue/Thu 4:30–5:30 PM (Gross Hall 318) or by appointment
 
 ---
