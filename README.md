@@ -55,7 +55,7 @@ Students will gain hands-on experience implementing TDA methods and apply them i
 | Final Report       | 39.5%  | due Dec 4          |
 | Presentation + Q&A | 40%    | Dec 4              |
 
-No exams. Collaboration on course projects is encouraged (see syllabus for details).
+No exams. Collaboration on course projects is encouraged (see [syllabus](https://docs.google.com/document/d/1sj1vG2-tylj1CJmwNJtKG3lOWXTlQ7MwZzVBheiG2gg/edit?usp=sharing) for details).
 
 ---
 
