@@ -31,16 +31,11 @@ Students will gain hands-on experience implementing TDA methods and apply them i
 
 **Reference Resources:**
 
-* [UCSD DSC291/190: TDA Course](https://sites.google.com/ucsd.edu/dsc291-190-tda)
- 
-* [DSC214-SPR24 GitHub Course](https://github.com/ZhengchaoW/DSC214-SPR24?tab=readme-ov-file)
- 
-* *Computational Topology: An Introduction* — Edelsbrunner & Harer
- 
+* [UCSD DSC291/190: TDA Course](https://sites.google.com/ucsd.edu/dsc291-190-tda) 
+* [DSC214-SPR24 GitHub Course](https://github.com/ZhengchaoW/DSC214-SPR24?tab=readme-ov-file) 
+* *Computational Topology: An Introduction* — Edelsbrunner & Harer 
 * *A roadmap for the computation of persistent homology* (Otter et al., 2017)
-
-* *Topological Data Analysis* (Larry Wasserman, 2018)
- 
+* *Topological Data Analysis* (Larry Wasserman, 2018) 
 * [TDA Lecture Notes by Žiga Virk](https://zigavirk.gitlab.io/PhBook.pdf)
 
 ---
@@ -72,9 +67,7 @@ The final project is your opportunity to **apply or explore Topological Data Ana
 Possible directions include:
 
 * **Applied:** Analyze a real or synthetic dataset using TDA methods
-
 * **Theoretical:** Explore or extend an idea related to persistent homology
-
 * **Survey:** Summarize and discuss recent research on a chosen TDA topic
 
 Projects may be completed **individually or in groups of up to three**.
@@ -88,11 +81,8 @@ Group projects are expected to show greater scope or depth.
 AI tools (e.g., ChatGPT, Copilot) may be used for **idea generation, debugging, or background learning**, but:
 
 * All work must reflect **your own understanding**.
-
 * **Copying or lightly editing** AI-generated output is **NOT** allowed.
-
 * You should be able to **explain** any submitted work.
-
 * If AI tools were used, include a short **acknowledgment** in your proposal/report explaining how they were used.
 
 ---
@@ -103,15 +93,10 @@ See the [course schedule](https://docs.google.com/spreadsheets/d/1j71stz1KoNI_l0
 Main topics include:
 
 * Simplicial and cubical complexes
-
 * Homology and persistent homology
-
 * Bottleneck and interleaving distances
-
 * Stability theorems
-
 * Mapper, Reeb graphs, and TDA for ML
-
 * Discrete Morse Theory
 
 ---
