@@ -61,16 +61,16 @@ No exams. Collaboration on course projects is encouraged (see [syllabus](https:/
 
 ## Final Project
 
-The final project is your opportunity to **apply or explore Topological Data Analysis (TDA)** in depth.
+The final project is your opportunity to apply or explore Topological Data Analysis (TDA) in depth.
 Possible directions include:
 
 * **Applied:** Analyze a real or synthetic dataset using TDA methods
 * **Theoretical:** Explore or extend an idea related to persistent homology
 * **Survey:** Summarize and discuss recent research on a chosen TDA topic
 
-Projects may be completed **individually or in groups of up to three**.
+Projects may be completed *individually or in groups of up to three*.
 Group projects are expected to show greater scope or depth.
-**Graduate students** should submit proportionally longer reports.
+*Graduate students* should submit proportionally longer reports.
 
 ---
 
