@@ -31,8 +31,8 @@ Students will gain hands-on experience implementing TDA methods and apply them i
 
 **Reference Resources:**
 
-* [UCSD DSC291/190: TDA Course](https://sites.google.com/ucsd.edu/dsc291-190-tda) 
-* [DSC214-SPR24 GitHub Course](https://github.com/ZhengchaoW/DSC214-SPR24?tab=readme-ov-file) 
+* [UCSD DSC291/190: TDA Course by Yusu Wang](https://sites.google.com/ucsd.edu/dsc291-190-tda) 
+* [DSC214-SPR24 GitHub Course by Zhengchao Wan](https://github.com/ZhengchaoW/DSC214-SPR24?tab=readme-ov-file) 
 * *Computational Topology: An Introduction* — Edelsbrunner & Harer 
 * *A roadmap for the computation of persistent homology* (Otter et al., 2017)
 * [TDA Lecture Notes by Žiga Virk](https://zigavirk.gitlab.io/PhBook.pdf)
