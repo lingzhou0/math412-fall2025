@@ -91,7 +91,7 @@ AI tools (e.g., ChatGPT, Copilot) may be used for **idea generation, debugging, 
 See the [course schedule](https://docs.google.com/spreadsheets/d/1j71stz1KoNI_l0zkF06td8IraTMBD3nwLf5zHPEif6k/edit?usp=sharing).
 Main topics include:
 
-* Simplicial and cubical complexes
+* Topological spaces and simplicial complexes
 * Homology and persistent homology
 * Bottleneck and interleaving distances
 * Stability theorems
