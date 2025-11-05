@@ -108,4 +108,3 @@ Main topics include:
 
 * **Accessibility:** contact SDAO for accommodations
 * **Integrity:** Duke Community Standard applies to all submissions
-* **Communication:** check email regularly; expect replies within 2 business days
