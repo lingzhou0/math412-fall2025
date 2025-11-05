@@ -82,8 +82,8 @@ AI tools (e.g., ChatGPT, Copilot) may be used for **idea generation, debugging, 
 
 * All work must reflect **your own understanding**.
 * **Copying or lightly editing** AI-generated output is **NOT** allowed.
-* You should be able to **explain** any submitted work.
-* If AI tools were used, include a short **acknowledgment** in your proposal/report explaining how they were used.
+* You should be prepared to **explain** any submitted work.
+* If AI tools were used, include a short **acknowledgment** explaining how they were used.
 
 ---
 
@@ -96,7 +96,10 @@ Main topics include:
 * Homology and persistent homology
 * Bottleneck and interleaving distances
 * Stability theorems
-* Mapper, Reeb graphs, and TDA for ML
+* Persistence summary (persistence image, persistence landscape, etc.)
+* Reeb graphs
+* Mapper
+* TDA in ML
 * Discrete Morse Theory
 
 ---
