@@ -27,7 +27,7 @@ Students will gain hands-on experience implementing TDA methods and apply them i
 
 **Textbook:**
 
-* *Computational Topology for Data Analysis* by Tamal Krishna Dey and Yusu Wang — [available free online](https://people.math.osu.edu/dey.8/CTDAbook/)
+* *Computational Topology for Data Analysis* by Tamal Krishna Dey and Yusu Wang — [available free online](http://yusu.belkin-wang.org/CTDAbook-DeyWang.pdf)
 
 **Reference Resources:**
 
